@@ -1,16 +1,4 @@
-# my_courses
+myCourses allows instructors and students to interact and access course materials online. A variety of tools are available to instructors to promote interaction.
 
-A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt MyCourses](https://fotos.subefotos.com/73b69c01d3c1ba1d67893e53d6f6ab8fo.jpg)
